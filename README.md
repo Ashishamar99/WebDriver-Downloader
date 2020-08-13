@@ -2,7 +2,7 @@
 A tool created with python which automates the procedure for downloading a compatible webdriver. 
 
 #### Here are a few References -
-* [An article about this tool.]()
+* [An article about this tool.](https://medium.com/@ashishamar1999/selenium-webdriver-downloader-b5653916488a?sk=963420936607681d2f79749c3793554e)
 * [A demo video of this tool.]()
 ----------------------------------------------------------------------------------------------------------------------------------------
 
